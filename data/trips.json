@@ -1,0 +1,32 @@
+[
+  {
+    "code": "GALE",
+    "name": "Gale Reef",
+    "length": "4 nights / 5 days",
+    "start": "2023-01-15",
+    "resort": "Emerald Bay",
+    "perPerson": "799",
+    "image": "reef1.jpg",
+    "description": "Gale Reef: This destination is perfect for beginner divers looking to explore colorful coral reefs and tropical marine life."
+  },
+  {
+    "code": "DAWS",
+    "name": "Dawson's Reef",
+    "length": "4 nights / 5 days",
+    "start": "2023-02-10",
+    "resort": "Blue Lagoon",
+    "perPerson": "899",
+    "image": "reef2.jpg",
+    "description": "Dawson's Reef: A fantastic destination featuring warm waters, vibrant coral formations, and unforgettable diving experiences."
+  },
+  {
+    "code": "CLAR",
+    "name": "Claire's Reef",
+    "length": "4 nights / 5 days",
+    "start": "2023-03-05",
+    "resort": "Coral Sands",
+    "perPerson": "999",
+    "image": "reef3.jpg",
+    "description": "Claire's Reef: Known for crystal-clear waters, abundant sea life, and incredible underwater scenery for divers of every skill level."
+  }
+]
